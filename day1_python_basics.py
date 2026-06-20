@@ -1,7 +1,4 @@
-print("Hello Microsoft")
-
-name = "Kishan"
-age = 20
-
-print("My name is", name)
-print("Next year my age will be", age + 1)
+print("Hello, World!")
+print("Welcome to Python programming.")
+print("I will join Microsoft by June 2027")
+print("My Microsoft Journey starts from today 6 June 2026")
